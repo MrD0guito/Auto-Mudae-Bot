@@ -56,7 +56,9 @@ This project **can stop working at any time** if Discord updates its UI, changes
 
 ---
 
-## 🇧🇷 Versão em Português
+# 🇧🇷 Versão em Português
+
+# 💍 Mudae Waifu Auto-Marry Bot
 
 Um bot em Python que identifica suas waifus favoritas no **jogo Mudae do Discord** e reage automaticamente para se casar com elas.
 

@@ -55,7 +55,3 @@ This project **can stop working at any time** if Discord updates its UI, changes
 > It’s entirely based on screen recognition and is not officially supported by Discord or Mudae.
 
 ---
-- Python 3.8 ou superior
-- Biblioteca `pyautogui`
-- Escala de tela recomendada: **100%**
-- Interface do Discord em português ou inglês (igual às imagens salvas)

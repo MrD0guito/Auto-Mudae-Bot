@@ -40,10 +40,6 @@ To configure this:
 - OR take a screenshot of the emoji you want to use and save it as:
 reactsemote/react_emote.png
 
-yaml
-Copiar
-Editar
-
 Optional: You can also replace the `react_button.png` if the UI button changes.
 
 ---
@@ -55,3 +51,9 @@ This project **can stop working at any time** if Discord updates its UI, changes
 > It’s entirely based on screen recognition and is not officially supported by Discord or Mudae.
 
 ---
+
+## 🖥️ Requirements
+
+- Python 3.8+
+- `pyautogui`
+- Screen resolution scaling: **100% recommended**
